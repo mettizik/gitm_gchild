@@ -242,4 +242,6 @@ paket-files/
 
 # JetBrains Rider
 .idea/
-*.sln.iml
+*.sln.iml*.VC.db
+*.VC.db
+*.lsn.iml
