@@ -1,6 +1,0 @@
-[submodule "child_lib"]
-	path = child_lib
-	url = https://github.com/mettizik/gitm_child.git
-[submodule "grand_child"]
-	path = grand_child
-	url = https://github.com/mettizik/gitm_gchild.git
